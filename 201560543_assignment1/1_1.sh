@@ -1,0 +1,1 @@
+sudo useradd --home ~/SCE/Assignment1 Hermione;sudo passwd Hermione;sudo useradd Harry;sudo passwd Harry;sudo addgroup hogwarts;sudo useradd Hermione hogwarts;sudo useradd Harry hogwarts;su Hermione ~/SCE/Assignment1;chmod 711 
